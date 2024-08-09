@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "title": "เค้กนมสดสายรุ้ง",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 390,
+        "image": "./assets/images/c1.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 2,
+        "title": "เค้กช็อคโกแลตท็อปสตอร์เบอรี",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 450,
+        "image": "./assets/images/c2.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 3,
+        "title": "เค้กช็อคโกแลตท็อปสายรุ้ง",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 400,
+        "image": "./assets/images/c3.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 4,
+        "title": "เค้กนมสดนมชมพู",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 300,
+        "image": "./assets/images/c4.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 5,
+        "title": "เค้กนมสดช็อคโกแลตโอริโอ้",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 400,
+        "image": "./assets/images/c5.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 6,
+        "title": "เค้กนมสดชมพูฟลาวเวอร์",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 450,
+        "image": "./assets/images/c6.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 7,
+        "title": "เค้กนมสดชมพู",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 350,
+        "image": "./assets/images/c7.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 8,
+        "title": "เค้กการ์ตูน",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 550,
+        "image": "./assets/images/c8.png",
+        "isNew": true,
+        "istrending": false,
+        "category": "cake"
+    },
+    {
+        "id": 9,
+        "title": "เค้กผลไม้",
+        "trendTitle": "My birthday is ...",
+        "description": "Customers whose birthday is today receive a 10% discount.",
+        "price": 480,
+        "image": "./assets/images/c9.png",
+        "isNew": false,
+        "istrending": true,
+        "category": "cake"
+    },
+    {
+        "id": 10,
+        "title": "ครัวซองต์เนยสด",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 59,
+        "image": "./assets/images/k1.png",
+        "isNew": false,
+        "istrending": true,
+        "category": "croissant"
+    },
+    {
+        "id": 11,
+        "title": "ครัวซองต์ผักขมอบชีส",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 69,
+        "image": "./assets/images/k2.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "croissant"
+    },
+    {
+        "id": 12,
+        "title": "ครัวซองต์มาตาริกา",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 69,
+        "image": "./assets/images/k3.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "croissant"
+    },
+    {
+        "id": 13,
+        "title": "ครัวซองต์เห็ดรวมชีส",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 79,
+        "image": "./assets/images/k4.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "croissant"
+    },
+    {
+        "id": 14,
+        "title": "ครัวซองต์ฮาวายเอี้ยน",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 79,
+        "image": "./assets/images/k5.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "croissant"
+    },
+    {
+        "id": 15,
+        "title": "ครัวซองต์พาร์มาร็อคเก็ต",
+        "trendTitle": "trending Croissant",
+        "description": "Buy 4 Free 1.",
+        "price": 79,
+        "image": "./assets/images/k6.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "croissant"
+    },
+    {
+        "id": 16,
+        "title": "บราวนี",
+        "trendTitle": "trending Brownies",
+        "description": "Buy 12 items, get 2 items free!!",
+        "price": 30,
+        "image": "./assets/images/b1.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "Cheesecake&Brownies"
+    },
+    {
+        "id": 17,
+        "title": "ราสต์เบอรีชีสเค้ก",
+        "trendTitle": "most popular menu",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 120,
+        "image": "./assets/images/chees1.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "Cheesecake&Brownies"
+    },
+    {
+        "id": 18,
+        "title": "บลูเบอรีชีสเค้ก",
+        "trendTitle": "most popular menu",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 120,
+        "image": "./assets/images/chees2.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "Cheesecake&Brownies"
+    },
+    {
+        "id": 19,
+        "title": "ชีสเค้กหน้าไหม้",
+        "trendTitle": "most popular menu",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 140,
+        "image": "./assets/images/chees3.png",
+        "isNew": false,
+        "istrending": false,
+        "category": "Cheesecake&Brownies"
+    }
+]

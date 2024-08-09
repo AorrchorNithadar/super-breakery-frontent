@@ -1,0 +1,8 @@
+การใช้งาน Website
+
+1.การเปิดด้วย Visual Studio Code
+  - Click ขวาในไฟล์ indext.html จากนั้น  Click Open with Live Sever
+
+2.ให้พิมพ์  http://127.0.0.1:5500/index.html ใน Tab Search จากนั้นเว็บจะรันขึ้น
+
+
